@@ -9,3 +9,5 @@ twitter_username: @lex_i1003 # DO NOT include the @ character, or else the build
 github_username:  Alex1003i # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
